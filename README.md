@@ -13,3 +13,6 @@ O script é o ls-radio.
 É o meu primeiro release público.
 
 OBS: Recomendo usar o mumble-voip que esta junto com o ls-radio, pois ja foi editado para funcionar com prop + animação ao falar e ao usar.
+
+
+Qualquer dúvida que possam vir a ter sobre o funcionamento podem contactar me via Discord: skiddle pumpkin#0001
