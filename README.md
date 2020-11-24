@@ -4,10 +4,15 @@ Pessoal venho compartilhar com vocês um script de rádio que tinha editado para
 
 O script original é o ls-radio so que converti para funcionar com mumble-voip e uns pequenos extras.
 -> ls-radio convertido para o mumble-voip.
+
 -> ls-radio por item/comando.
+
 -> ls-radio com frequências privadas.
+
 -> ls-radio com frequências com casa decimal (30.05/240.78)
+
 -> ls-radio com prop da rádio ao usar.
+
 -> ls-radio com prop e animação do rádio ao falar.
 
 É o meu primeiro release público.
