@@ -6,7 +6,7 @@ O script original é o ls-radio so que converti para funcionar com mumble-voip e
 
 -> ls-radio convertido para o mumble-voip.
 
--> ls-radio por item/comando.
+-> ls-radio por item ou comando.
 
 -> ls-radio com frequências privadas.
 
