@@ -3,6 +3,7 @@
 Pessoal venho compartilhar com vocês um script de rádio que tinha editado para o servidor que estava a trabalhar e visto que ele fechou, decidi compartilhá lo.
 
 O script original é o ls-radio so que converti para funcionar com mumble-voip e uns pequenos extras.
+
 -> ls-radio convertido para o mumble-voip.
 
 -> ls-radio por item/comando.
