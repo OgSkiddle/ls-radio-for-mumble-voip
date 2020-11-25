@@ -2,6 +2,7 @@
 
 Pessoal venho compartilhar com vocês um script de rádio que tinha editado para o servidor que estava a trabalhar e visto que ele fechou, decidi compartilhá lo.
 
+[PT]
 O script original é o ls-radio so que converti para funcionar com mumble-voip e uns pequenos extras.
 
 -> ls-radio convertido para o mumble-voip.
@@ -16,9 +17,19 @@ O script original é o ls-radio so que converti para funcionar com mumble-voip e
 
 -> ls-radio com prop e animação do rádio ao falar.
 
-É o meu primeiro release público.
-
-OBS: Recomendo usar o mumble-voip que esta junto com o ls-radio, pois ja foi editado para funcionar com prop + animação ao falar e ao usar.
-
-
 Qualquer dúvida que possam vir a ter sobre o funcionamento podem contactar me via Discord: skiddle pumpkin#0001
+
+[ENG]
+The original script is ls-radio, but i converted it for work with mumble-voip and with a little extras.
+
+-> ls-radio work with mumble-voip.
+
+-> ls-radio with item or command.
+
+-> ls-radio with private frequency for police.
+
+-> ls-radio with decimal frequency example (30.05/240.78).
+
+-> ls-radio with props when use the radio.
+
+-> ls-radio with prop and animation when talk.
