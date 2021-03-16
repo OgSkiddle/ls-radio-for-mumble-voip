@@ -17,7 +17,7 @@ O script original é o ls-radio so que converti para funcionar com mumble-voip e
 
 -> ls-radio com prop e animação do rádio ao falar.
 
-Qualquer dúvida que possam vir a ter sobre o funcionamento podem contactar me via Discord: skiddle pumpkin#0001
+Qualquer dúvida que possam vir a ter sobre o funcionamento podem contactar me via Discord: skiddle pumpkin#3693
 
 [ENG]
 The original script is ls-radio, but i converted it for work with mumble-voip and with a little extras.
